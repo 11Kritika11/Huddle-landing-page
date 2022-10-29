@@ -13,20 +13,20 @@ body {
 .huddle {
   position: absolute;
   top: 40px;
-  left: 100px;
+  left: 90px;
 }
 
 .pop {
   position: absolute;
   top: 190px;
-  left: 110px;
+  left: 90px;
 }
 
 .love {
   position: absolute;
   font-family: 'Poppins', sans-serif;
   color: white;
-  width: 25%;
+  width: 35%;
   top: 28%;
   left:65%;
   text-align: left;
@@ -36,7 +36,7 @@ body {
 .para {
   position: absolute;
   color: #EAEAEA;
-  width: 32%;
+  width: 38%;
   top: 42%;
   left:65%;
   text-align: left
